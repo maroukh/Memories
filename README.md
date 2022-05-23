@@ -1,2 +1,2 @@
 # Memories
-Fullstack Memories App
+Fullstack Memories App (React + ExpressJS)
